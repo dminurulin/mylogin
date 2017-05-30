@@ -1,0 +1,41 @@
+body {
+  background: #999999;
+  font-family: Arial, Verdana;
+}
+
+#header {
+  padding: 20px;
+  background: #444444;
+  color: #fff;
+  font-family: Arial, Verdana;
+}
+
+#content {
+  background: #fff;
+  padding: 20px;
+}
+
+#footer {
+  background: #777777;
+  font-family: Arial, Verdana;
+  padding: 20px;
+}
+label {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+input[type="text"],[type="password"] {
+  border-width: 1;
+  border-color: black;
+  margin: 0;
+  width: 200;
+  padding: 10px 12px;
+  font-size: 20px;
+}
+input[type="submit"] {
+  border-width: 1;
+  border-color: black;
+  margin: 0;
+  padding: 10px 12px;
+}

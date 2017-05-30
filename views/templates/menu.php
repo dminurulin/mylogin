@@ -1,0 +1,1 @@
+<br><p align="center"><A href="/auth/enter">Вход</a> | <a href="/auth/addnewuser">Регистрация</a>
